@@ -8,7 +8,7 @@
 
 import UIKit
 
-class BlinkingLabel: UILabel {
+class BlinkingLabeltest: UILabel {
 
     
     public func startBlinking() {
