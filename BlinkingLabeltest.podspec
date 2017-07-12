@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BlinkingLabeltest'
-  s.version          = '0.4.0'
+  s.version          = '0.5.0'
   s.summary          = 'Description of BlinkingLabeltest.'
 
 # This description is used to generate tags and improve search results.
